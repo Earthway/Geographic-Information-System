@@ -10,7 +10,7 @@ I am passionate about applying geospatial technologies and environmental science
 
 ## Technical Skills
 
-### GIS & Remote Sensing
+### GIS and Remote Sensing
 
 * QGIS
 * ArcGIS
@@ -19,7 +19,7 @@ I am passionate about applying geospatial technologies and environmental science
 * Spatial Data Management
 * Cartography and Map Production
 
-### Climate & Forestry
+### Climate and Forestry
 
 * Forest Carbon Assessment
 * Afforestation and Reforestation Planning
@@ -27,7 +27,7 @@ I am passionate about applying geospatial technologies and environmental science
 * Nature-Based Solutions
 * Environmental Monitoring
 
-== Programming
+### Programming
 
 * Python (Learning)
 * PyQGIS (Learning)
@@ -35,9 +35,9 @@ I am passionate about applying geospatial technologies and environmental science
 
 ---
 
-== Featured Projects
+## Featured Projects
 
-== Afforestation Suitability Mapping Using PyQGIS
+### Afforestation Suitability Mapping Using PyQGIS
 
 A GIS-based project that identifies suitable areas for afforestation using spatial analysis, slope, land cover, and environmental factors.
 
@@ -47,11 +47,11 @@ A GIS-based project that identifies suitable areas for afforestation using spati
 
 Development of an Afforestation, Reforestation and Revegetation (ARR) carbon project covering 500 hectares across Baringo, Nakuru, and Elgeyo Marakwet Counties.
 
-== Forest Carbon Stock Assessment
+### Forest Carbon Stock Assessment
 
 Application of forest inventory and carbon accounting methodologies to estimate carbon sequestration potential.
 
-== Climate and Environmental Mapping
+### Climate and Environmental Mapping
 
 Development of thematic maps for environmental monitoring, land-use planning, and conservation initiatives.
 
@@ -59,21 +59,20 @@ Development of thematic maps for environmental monitoring, land-use planning, an
 
 ## Certifications
 
-1)	Certificate in GIS and Remote Sensing (Beginner to Expert) | Udemy (2024)
-2)	Certificate in GIS for Climate Action | ESRI (2023)
-3)	Certificate in Farmer Managed Natural Regeneration (FMNR) | World Vision Global Sector Leadership (2022)
-4)	Certificate in Ecosystem Restoration (Parts 1 & 2) | UNDP (2022)
-5)	Certificate in Indigenous Peoples | United Nations (2022)
-6)	Ghana Climate Literacy Portal Climate Science | 2026
-7)	Forests and Transparency under the Paris Agreement – FAO
-8)	Fundamentals of Remote Sensing – ARSET
-
+* Certificate in GIS and Remote Sensing (Beginner to Expert) – Udemy (2024)
+* Certificate in GIS for Climate Action – Esri (2023)
+* Certificate in Farmer Managed Natural Regeneration (FMNR) – World Vision Global Sector Leadership (2022)
+* Certificate in Ecosystem Restoration (Parts 1 & 2) – UNDP (2022)
+* Certificate in Indigenous Peoples – United Nations (2022)
+* Ghana Climate Literacy Portal: Climate Science (2026)
+* Forests and Transparency under the Paris Agreement – FAO (2026)
+* Fundamentals of Remote Sensing – ARSET (2026)
 
 ---
 
 ## Education
 
-Bachelor's Degree in Climate Change and Development With Information Technology
+Bachelor's Degree in Climate Change and Development with Information Technology
 
 ---
 
@@ -89,7 +88,6 @@ Bachelor's Degree in Climate Change and Development With Information Technology
 
 ## Contact
 
-LinkedIn: (https://www.linkedin.com/in/amos-kipruto/)
+LinkedIn: [www.linkedin.com/in/amos-kipruto/](http://www.linkedin.com/in/amos-kipruto/)
 
-Email: 	
-kiprutoamos97@gmail.com
+Email: [kiprutoamos97@gmail.com](mailto:kiprutoamos97@gmail.com)
