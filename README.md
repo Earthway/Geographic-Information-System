@@ -1,4 +1,4 @@
-# Amos Kiprono
+# Amos Chepkwony
 
 ## About Me
 
@@ -66,7 +66,7 @@ Development of thematic maps for environmental monitoring, land-use planning, an
 
 ## Education
 
-Bachelor's Degree in Forestry and Climate Change
+Bachelor's Degree in Climate Change and Development With Information Technology
 
 ---
 
@@ -84,4 +84,5 @@ Bachelor's Degree in Forestry and Climate Change
 
 LinkedIn: (https://www.linkedin.com/in/amos-kipruto/)
 
-Email: Add your professional email address
+Email: 	
+kiprutoamos97@gmail.com
